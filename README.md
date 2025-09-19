@@ -21,7 +21,7 @@ I build clean, scalable, and user-focused mobile apps with a strong foundation i
 ---
 
 ## 📚 Certifications  
-- [Flutter & Dart – The Complete Guide (2025 Edition) | Udemy]((https://www.udemy.com/certificate/UC-fcf0ada3-5dc7-4908-9627-6e13a2602373/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com))  
+- [Flutter & Dart – The Complete Guide (2025 Edition) | Udemy](https://www.udemy.com/certificate/UC-fcf0ada3-5dc7-4908-9627-6e13a2602373/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)  
 - [Kotlin Android Fundamentals | Udacity](https://www.udacity.com/certificate/e/884b436c-530b-11ef-a19a-13605c73b7e8)  
 
 ---
