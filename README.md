@@ -15,8 +15,10 @@ I build clean, scalable, and user-focused mobile apps with a strong foundation i
 ---
 
 ## 📱 Featured Project  
-- **SatFinder+ (Google Play – Internal Testing)**  
-  A mobile app built with Flutter, integrating sensor-based logic, responsive UI design, and persistent local storage.  
+- **Sheqlee – Freelance Marketplace**
+   Implemented features from provided designs with Flutter (UI/UX, theming, responsiveness, riverpod state management), collaborated in a team, integrated with a live backend server for     seamlessdata exchange, and built local SQLite storage for persistent settings.
+- **SatFinder (Google Play – Internal Testing)**                                                                                                                                          
+   A mobile app built with Flutter, integrating sensor-based logic, responsive UI design, and persistent local storage.  
 
 ---
 
